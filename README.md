@@ -6,6 +6,4 @@
 <br />
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushib01&layout=compact)](https://github.com/ayushib01/github-readme-stats)
-### registered for local hack day 1st time. Hacking begins.
-HoloPin Badge Board
-[![@parkourguy's Holopin board](https://holopin.io/api/user/board?user=parkourguy)](https://holopin.io/@parkourguy)
+
